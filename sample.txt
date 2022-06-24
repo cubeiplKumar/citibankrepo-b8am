@@ -1,0 +1,20 @@
+<<<<<<< Updated upstream
+at 1pm 
+changes
+in services of application
+new changes
+devops
+ansible
+chef
+vagrant
+=======
+working with the git adv.commands
+git pull
+git fetch
+.....
+>>>>>>> Stashed changes
+Configuraiton management tools
+Chef
+Ansible
+SaltStack
+Puppet
