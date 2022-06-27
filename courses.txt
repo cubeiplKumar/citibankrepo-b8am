@@ -1,3 +1,14 @@
+<<<<<<< Updated upstream
 appending new changes
 devops workshop
 cloud projects
+git advcommands
+php
+java
+websphere administration
+vmware administration
+=======
+
+Docker
+Kubernetes
+>>>>>>> Stashed changes
