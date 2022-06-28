@@ -22,4 +22,11 @@ class Main {
       e.getStackTrace();
     }
   }
+  //appending new changes for the feature301
+  // reads all data from input.txt
+      sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
 }
