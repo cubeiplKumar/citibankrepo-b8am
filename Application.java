@@ -22,6 +22,7 @@ class Main {
       e.getStackTrace();
     }
   }
+
   // Feature 302 changes for the module services
   public static void sampleMethod(int a, int b) throws ArithmeticException{
         System.out.println("Hello, this is sample method");
@@ -29,4 +30,12 @@ class Main {
         System.out.println("c:"+c); // c: 2
    }
    
+  //appending new changes for the feature301
+  // reads all data from input.txt
+      sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
+
 }
