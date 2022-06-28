@@ -1,3 +1,19 @@
 Chaman is a very good boy
-He met a girl 
+He met a girl Simran
 She is is friend now.
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+
+DevOps 
+Ansible
+Containerization tools
+Docker 
+<<<<<<< Updated upstream
+Kubernetes
+>>>>>>> Stashed changes
+=======
+Kubernetes
+>>>>>>> Stashed changes
