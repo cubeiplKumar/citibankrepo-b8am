@@ -4,3 +4,7 @@ Docker Workshop
 June2022
 Ansible+Jenkins integration
 deployments
+
+========
+CloudEngineer
+Cloud Architect
