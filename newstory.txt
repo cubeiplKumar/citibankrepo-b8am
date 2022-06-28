@@ -1,2 +1,6 @@
 DevOps Workshop 2022
 Docker Workshop
+
+June2022
+Ansible+Jenkins integration
+deployments
