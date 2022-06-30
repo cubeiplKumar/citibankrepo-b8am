@@ -8,3 +8,8 @@ deployments
 ========
 CloudEngineer
 Cloud Architect
+===============
+New changes 
+
+Devops Associate Certification
+Cloud Associate Certification
